@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: fe3a643f1856bcb56017                            #生成的clientID
-  clientSecret: f89efafdfba66382a6d5bdda15d5c3390e2b54be    #生成的clientSecret
+  clientID: 6313726f315d2cdcc811                            #生成的clientID
+  clientSecret: 3287f8c1bff4833f4b9134a7407e600afb2ca03d    #生成的clientSecret
   repo: yuruifei.github.io    #仓库名称
   owner: yuruifei    #github用户名
   admin: yuruifei
